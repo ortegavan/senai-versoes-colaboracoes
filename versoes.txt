@@ -1,1 +1,2 @@
-alterando o arquivo
+Esta linha foi adicionada na branch2
+ 
