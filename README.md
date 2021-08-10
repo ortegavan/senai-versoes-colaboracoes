@@ -6,9 +6,15 @@
 </h2>
 
 <p align="center">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ortegavan/senai-versoes-colaboracoes?style=flat-square">
-    <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/ortegavan/senai-versoes-colaboracoes?style=flat-square">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ortegavan?style=flat-square">
+    <a href="https://github.com/ortegavan/senai-versoes-colaboracoes/commits/main/README.md">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ortegavan/senai-versoes-colaboracoes?style=flat-square">
+    </a>
+    <a href="https://github.com/ortegavan/senai-versoes-colaboracoes/tags">
+        <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/ortegavan/senai-versoes-colaboracoes?style=flat-square">
+    </a>
+    <a href="https://github.com/ortegavan?tab=followers">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/ortegavan?style=flat-square">
+    </a>
 </p>
 
 Seguem, abaixo, comandos que utilizei para trabalhar com versionamento.
