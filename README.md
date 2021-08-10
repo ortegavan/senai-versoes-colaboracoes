@@ -117,10 +117,3 @@ Por fim, enviei o conteúdo atualizado ao repositório remoto:
 ```bash
 $ git push origin
 ```
-
-
-
-
-
-
-
