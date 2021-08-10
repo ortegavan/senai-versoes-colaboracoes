@@ -15,6 +15,9 @@
     <a href="https://github.com/ortegavan?tab=followers">
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/ortegavan?style=flat-square">
     </a>
+    <a href="https://github.com/ortegavan">
+        <img alt="Made with love" src="https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-ortegavan-ff69b4.svg?style=flat-square">
+    </a>
 </p>
 
 Seguem, abaixo, comandos que utilizei para trabalhar com versionamento.
