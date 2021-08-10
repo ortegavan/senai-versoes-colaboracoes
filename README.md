@@ -4,11 +4,11 @@
 <h2 align="center">
     Programador Full Stack  -  Versionamento
 </h2>
-<p align="center">
+
     ![GitHub followers](https://img.shields.io/github/followers/ortegavan?style=social)
     ![Twitter Follow](https://img.shields.io/twitter/follow/ortegavan?style=social)
     ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ortegavan/senai-versoes-colaboracoes)
-</p>
+
 
 Seguem, abaixo, comandos que utilizei para trabalhar com versionamento.
 
