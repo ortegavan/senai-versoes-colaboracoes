@@ -5,10 +5,10 @@
     Programador Full Stack  -  Versionamento
 </h2>
 
-    ![GitHub followers](https://img.shields.io/github/followers/ortegavan?style=social)
-    ![Twitter Follow](https://img.shields.io/twitter/follow/ortegavan?style=social)
-    ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ortegavan/senai-versoes-colaboracoes)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/ortegavan/senai-versoes-colaboracoes)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/ortegavan/senai-versoes-colaboracoes)
+![GitHub followers](https://img.shields.io/github/followers/ortegavan?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ortegavan?style=social)
 
 Seguem, abaixo, comandos que utilizei para trabalhar com versionamento.
 
