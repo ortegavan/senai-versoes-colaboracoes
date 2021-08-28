@@ -1,9 +1,9 @@
-<h1 align="center">
-    SENAI - SP    
-</h1>
 <h2 align="center">
-    Programador Full Stack  -  Versionamento
+    SENAI - SP    
 </h2>
+<h3 align="center">
+    Programador Full Stack  -  Versionamento
+</h3>
 
 <p align="center">
     <a href="https://github.com/ortegavan/senai-versoes-colaboracoes/commits/main/README.md">
@@ -22,7 +22,7 @@
 
 Seguem, abaixo, comandos que utilizei para trabalhar com versionamento.
 
-## ⤵️ **Repositório local**
+### ⤵️ **Repositório local**
 
 Setei nome de usuário e e-mail:
 
@@ -50,7 +50,7 @@ $ git commit -m "meu primeiro commit"
 
 Experimentei fazer alterações neste arquivo e novamente executei estes comandos para atualizá-lo no repositório.
 
-## ⤴️ **Repositório remoto**
+### ⤴️ **Repositório remoto**
 
 Criei um repositório no site do GitHub chamado **senai-versoes-colaboracoes** e utilizei o comando abaixo para fazer a ligação entre o repositório local e o repositório remoto:
 
